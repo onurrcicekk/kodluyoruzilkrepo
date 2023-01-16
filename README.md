@@ -3,5 +3,5 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Fron-End Eğitiminde oluşturduğumu
 
 -----------------------------------------------------------
 -------------------
-![Lorem Picsum Gorsel] (https://picsum.photos/200/300)
+![Lorem] (https://picsum.photos/200/300)
 ***
